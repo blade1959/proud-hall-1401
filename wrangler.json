@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "proud-hall-1401",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fa30539e-e6a9-4607-9f08-cc8a7ced0e91",
+      "database_name": "fancy-unit-13db-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
